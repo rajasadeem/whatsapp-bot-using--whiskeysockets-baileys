@@ -96,11 +96,11 @@ async function connectToWhatsApp() {
         .reverse();
 
       const response = await openai.chat.completions.create({
-        model: "gpt-4o-mini",
-        max_tokens: 1000,
+        model: "gpt-4o",
+        max_tokens: 500,
         temperature: 0,
         messages: [
-          { role: "system", content: prompt, name: "system" },
+          { role: "system", content: prompt },
           // @ts-ignore
           ...previousMessagesForOpenAI,
         ],
