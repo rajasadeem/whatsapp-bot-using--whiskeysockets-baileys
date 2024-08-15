@@ -5,8 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc",
-    "start": "ts-node src/index.ts",
-    "dev": "nodemon src/index.ts"
+    "start": "ts-node src/index.ts"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.6",
