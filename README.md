@@ -5,7 +5,8 @@
 To get your WhatsApp bot up and running, follow these steps:
 
 1. Set Up Environment Variables:
-   Create a .env file in the root directory of your project and configure it according to the .env.sample file provided.
+
+Create a .env file in the root directory of your project and configure it according to the .env.sample file provided.
 
 2. Install dependenices
 
