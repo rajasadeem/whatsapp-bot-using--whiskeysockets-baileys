@@ -26,7 +26,7 @@ When you run the project, a QR code will appear in the terminal. Scan this QR co
 
 5. Interact with your bot
 
-Once authenticated, you can send messages to your WhatsApp number, and the bot will automatically respond on your behalf. It will handle incoming queries using its programmed responses.
+After authentication, you can send messages to your linked WhatsApp number, and the bot will automatically reply on your behalf. It will handle incoming queries using its programmed responses.
 
 6. Customizations and Extensions
 
